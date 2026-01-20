@@ -6,6 +6,14 @@ Modern AI is moving beyond "bags of words" and statistical guessing toward struc
 
 Whether you are analyzing 30 years of archives or architecting real-time decentralized compute subnets, this roadmap provides the engineering foundation required to bridge the gap between human language and quantum hardware.
 
+### File structure
+├── curriculum/       # The 6-Phase Syllabus
+├── docs/             # Your "Architect's Notes" and Research
+├── templates/        # Boilerplate folder structures for forks
+├── data/             # Suggested public datasets
+├── README.md         # The Master Specification
+└── GETTING_STARTED.md # The Step-by-Step Onboarding
+
 ### Getting Started
 This repo is designed as a self-directed education in linguistic data architecture. To begin your journey:
 1. **Fork this repo**: This will create your own personal laboratory to experiment and track your progress.
