@@ -6,3 +6,12 @@ Modern AI is moving beyond "bags of words" and statistical guessing toward struc
 
 Whether you are analyzing 30 years of archives or architecting real-time decentralized compute subnets, this roadmap provides the engineering foundation required to bridge the gap between human language and quantum hardware.
 
+### Getting Started
+This repo is designed as a self-directed education in linguistic data architecture. To begin your journey:
+1. **Fork this repo**: This will create your own personal laboratory to experiment and track your progress.
+2. **Choose your data**: You are going to need a big data set to work with. You can either use personal data or publicly available datasets. (See `DATASETS.md` for recommendations.)
+3. **Initialize your environment**: We recommend a clean Python virtual environment.
+4. **Follow the modules**: If you have no previous experience in information science, or if you need a refresher, start with module 0.
+
+Read the full getting started guide at `GETTING_STARTED.md`
+
