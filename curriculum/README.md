@@ -1,7 +1,7 @@
 # Linguistic Data Architecture Roadmap Curriculum
 ## Master List
 
-1. [Information Science Foundation]("https://example.com")
+1. [Information Science Boot Camp](https://github.com/veronica-stork/linguistic-data-architecture-roadmap/tree/main/curriculum/phase1)"
 2. [Linguistic Architecture]("https://example.com")
 3. [Introduction to Data Engineering with Python]("https://example.com")
 4. [Infrastructure & DePIN]("https://example.com")
