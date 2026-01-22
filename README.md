@@ -7,7 +7,7 @@ Modern AI is moving beyond "bags of words" and statistical guessing toward struc
 Whether you are analyzing 30 years of archives or architecting real-time decentralized compute subnets, this roadmap provides the engineering foundation required to bridge the gap between human language and quantum hardware.
 
 ### File structure
-├── curriculum/       # The 6-Phase Syllabus  
+├── [curriculum/]("https://github.com/veronica-stork/linguistic-data-architecture-roadmap/tree/main/curriculum")       # The 6-Phase Syllabus  
 ├── docs/             # Your "Architect's Notes" and Research   
 ├── templates/        # Boilerplate folder structures for forks  
 ├── data/             # Suggested public datasets   
